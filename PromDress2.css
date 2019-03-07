@@ -1,0 +1,31 @@
+/*
+* Sara Brisiel 
+* Due Date 
+* Project Name and Description 
+*/
+
+* {
+} 
+/* Body attributes her */ 
+body { 
+    width: 80%;
+    margin: auto;
+    background-color: lightpink;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+h1{ 
+    background-color: white; /* color for background */
+    color: black; /* color of text */
+}
+
+p { /*type of selector for ALL paragraphs */
+    color: black;
+}
+
+#redText { /* use an id to change text to black */ 
+    color: red;
+}
+
+.greenText { /* use a class to change text to green in different kinds of elements */ 
+    color: green;
+}
